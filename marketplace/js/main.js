@@ -33,6 +33,7 @@
 
 
     // Product Quantity
+    /*
     $('.quantity button').on('click', function () {
         var button = $(this);
         var oldValue = button.parent().parent().find('input').val();
@@ -47,6 +48,6 @@
         }
         button.parent().parent().find('input').val(newVal);
     });
-
+*/
 })(jQuery);
 
